@@ -8,7 +8,6 @@ Tem como objetivo fazer a organização e controle de entrada e saída de um det
 
 - C#
 - .NET (ou .NET Core)
-- [Outras bibliotecas ou frameworks relevantes]
 
 ## Funcionalidades
 
