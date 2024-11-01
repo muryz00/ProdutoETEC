@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|c:\\users\\pichau\\desktop\\ativprodutos\\ativprodutos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|solutionrelative:ativprodutos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|C:\\Users\\Pichau\\Desktop\\AtivProdutos\\ativprodutos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|solutionrelative:ativprodutos\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|C:\\Users\\Pichau\\Desktop\\AtivProdutos\\ativprodutos\\clsconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|solutionrelative:ativprodutos\\clsconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|C:\\Users\\Pichau\\Desktop\\AtivProdutos\\ativprodutos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|solutionrelative:ativprodutos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|C:\\Users\\Pichau\\Desktop\\AtivProdutos\\ativprodutos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF130E-47CA-40BF-8710-3D7AD94A0BF4}|AtivProdutos\\AtivProdutos.csproj|solutionrelative:ativprodutos\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsConexao.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\clsConexao.cs",
+              "RelativeDocumentMoniker": "AtivProdutos\\clsConexao.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\clsConexao.cs",
+              "RelativeToolTip": "AtivProdutos\\clsConexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:29:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form2.cs",
+              "RelativeDocumentMoniker": "AtivProdutos\\Form2.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form2.cs [Design]",
+              "RelativeToolTip": "AtivProdutos\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:17:30.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form3.cs",
+              "RelativeDocumentMoniker": "AtivProdutos\\Form3.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form3.cs",
+              "RelativeToolTip": "AtivProdutos\\Form3.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:23:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form3.cs",
+              "RelativeDocumentMoniker": "AtivProdutos\\Form3.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form3.cs [Design]",
+              "RelativeToolTip": "AtivProdutos\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:13:05.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form2.cs",
+              "RelativeDocumentMoniker": "AtivProdutos\\Form2.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\AtivProdutos\\AtivProdutos\\Form2.cs",
+              "RelativeToolTip": "AtivProdutos\\Form2.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:11:43.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
