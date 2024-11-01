@@ -1,6 +1,6 @@
 <h1>Projeto Controle de Produtos e Movimentos</h1>
 
-<#Controle de Produtos E Movimento
+<strong>Controle de Produtos E Movimento</strong>
 
 Tem como objetivo fazer a organização e controle de entrada e saída de um determinado produto. Além de precificação de produtos 
 
